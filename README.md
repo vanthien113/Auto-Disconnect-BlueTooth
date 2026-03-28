@@ -1,5 +1,7 @@
 # DisconnectBL (Bluetooth Auto-Disconnect Tool)
 
+<img width="282" height="406" alt="image" src="https://github.com/user-attachments/assets/d999f98d-28c5-405a-8562-6fbf8203f7ad" />
+
 DisconnectBL is a lightweight macOS utility designed to automatically manage your Bluetooth device connections when your screen locks or unlocks. This is especially useful for headphones or earphones that you want to disconnect when stepping away from your Mac, allowing them to freely connect to your phone or other devices.
 
 ## Features
